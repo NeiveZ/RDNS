@@ -2,6 +2,7 @@
 # RDNS - Reverse DNS Scanner
 # Author: NeiveZ | github.com/NeiveZ/RDNS
 
+
 set -euo pipefail
 
 # ── Colors ────────────────────────────────────────────────────────
